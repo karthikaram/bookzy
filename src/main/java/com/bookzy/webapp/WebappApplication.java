@@ -1,5 +1,5 @@
 package com.bookzy.webapp;
-
+//adding some comment to trigger pipeline
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
